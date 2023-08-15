@@ -17,3 +17,21 @@ rounded-circle {
 #skills {
     margin-bottom: 100px;
 }
+
+.codeBackground {
+    height: calc(100vh - 25px);
+    background-image: url(../images/codeBackgroundi.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.jumpoMargin {
+    margin-top: 200px;
+}
+
+.jumpobtn {
+    margin-top: 20px;
+}
