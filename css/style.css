@@ -1,0 +1,19 @@
+/* .bd-placeholder-img,
+rounded-circle {
+    background-image: url(../images/html.jpg);
+    background-repeat: no-repeat;
+} */
+.circle {
+    border: 2px solid black;
+    border-radius: 100%;
+    width: min-content;
+    height: min-content;
+}
+
+.icons {
+    font-size: 150px;
+}
+
+#skills {
+    margin-bottom: 100px;
+}
