@@ -10,6 +10,7 @@ rounded-circle {
     height: min-content;
 }
 
+/* this is the icon from fontawesome */
 .icons {
     font-size: 150px;
 }
@@ -28,10 +29,21 @@ rounded-circle {
     justify-content: center;
 }
 
+/* this is the jumpotron margin for the header,text and button  */
 .jumpoMargin {
     margin-top: 300px;
 }
 
+/* this is a class for jumpotron button  */
 .jumpobtn {
     margin-top: 20px;
+}
+
+.my-work {
+    margin-top: 20px;
+}
+
+.about-me {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
